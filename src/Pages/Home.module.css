@@ -1,0 +1,54 @@
+.home {
+  display: flex;
+  gap: 15px;
+  justify-content: center;
+  align-items: center;
+  margin-top: 100px;
+}
+.container {
+  text-align: center;
+}
+.Button {
+  padding: 10px 15px;
+  border-radius: 5px;
+  border: none;
+  background-color: rgb(10, 175, 204);
+  color: white;
+  cursor: pointer;
+}
+
+.container2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+table {
+  padding: 15px;
+  border: 1px solid grey;
+}
+
+th,
+td {
+  border: 0.2px solid grey;
+  padding: 8px;
+}
+h1 {
+  background-color: aquamarine;
+  padding: 15px;
+}
+.filter {
+  display: flex;
+  gap: 30px;
+  justify-content: center;
+  margin-bottom: 30px;
+  margin-top: 15px;
+}
+
+select {
+  padding: 5px;
+  border-radius: 8px;
+}
+
+input{
+    padding:5px
+}
